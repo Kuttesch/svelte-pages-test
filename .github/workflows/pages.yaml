@@ -1,5 +1,8 @@
 name: release website
 
+permissions:
+  contents: write
+
 on:
   push:
     branches:
